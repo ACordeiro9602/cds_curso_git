@@ -12,6 +12,7 @@ def create_dataframe_section(df):
     col_1.dataframe(df, height=530)
 
     col_2.header("Data Description")
+    
 
     data_description = """
                         | Coluna | Descrição |
